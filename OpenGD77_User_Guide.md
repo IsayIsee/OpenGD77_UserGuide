@@ -171,7 +171,7 @@ For the latest information and discussions, please refer to the development and 
       * [Contact](#contact-1)
       * [Rx CSS](#rx-css-ctcss-or-dcs)
       * [Tx CSS](#tx-css-ctcss-or-dcs)
-      * [Bandwidth](#bandwidth)
+      * [BW](#bw)
       * [Step](#step)
       * [TOT](#tot)
       * [Rx Only](#rx-only)
@@ -2015,9 +2015,9 @@ For both Tx and Rx CTCSS / DCS.
 
 Sets the *transmit CTCSS tone or DCS code* when the VFO / Channel is set to **FM**.
 
-#### Bandwidth<!-- linebreak -->
+#### BW<!-- linebreak -->
 
-Sets the *Rx and Tx bandwidth* in **FM** mode to either **25Khz** or *12.5Khz**.
+Sets the *Rx and Tx bandwidth* in **FM** mode to either **25Khz** or **12.5Khz**.
 
 #### Step<!-- linebreak -->
 
@@ -2030,7 +2030,7 @@ Sets the time-out timer to **OFF** or **ON**.
 #### Rx Only<!-- linebreak -->
 
 Set the channel to receive only is this value is **ON**.
-When the channel is set to receive only, pressing the PTT results in the "ERROR  Rx Only" message and the radio will not transmit.
+When the channel is set to receive only, pressing the PTT results in the "ERROR Rx Only" message and the radio will not transmit.
 
 #### Zone Skip<!-- linebreak -->
 
